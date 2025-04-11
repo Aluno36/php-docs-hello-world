@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Apresentação - Lucas Fernandes</title>
+    <title>Apresentação </title>
     <style>
         body {
             background-color: #f0f4ff;
@@ -33,7 +33,7 @@
 <body>
     <div class="container">
         <h1>Bem-vindo ao Azure!</h1>
-        <p>Eu sou o Aluno <strong>Lucas Fernandes</strong></p>
+        <p>Eu sou o Aluno <strong>Lucas Fernandes Pinto</strong></p>
     </div>
 </body>
 </html>
